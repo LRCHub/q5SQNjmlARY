@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ウィマーマ・サーガ",
+  "base_artist": "しぐれうい",
+  "createdAt": "2026-01-08T01:48:29.305483Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウィマーマ・サーガ",
+      "artist": "しぐれうい",
+      "has_synced": false,
+      "path": "select/pl_01_ウィマーマ・サーガ_しぐれうい.txt"
+    }
+  ]
+}
